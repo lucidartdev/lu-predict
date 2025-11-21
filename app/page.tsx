@@ -1,6 +1,6 @@
 import Link from "next/link";
-import CreateMarketForm from "./(components)/CreateMarketForm";
-import MarketCard from "./(components)/MarketCard";
+import CreateMarketForm from "../components/CreateMarketForm";
+import MarketCard from "../components/MarketCard";
 
 export default async function Home() {
   return (
